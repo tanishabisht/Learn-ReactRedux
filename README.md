@@ -11,7 +11,6 @@ Follow these instructions to get the application running:
    - `npm install`
 3. Start the application:
    - To run the project : `npm start`
-   - To run json-server : `json-server --watch data/notes.json --port 8080`
 
 
 ## Redux Flow
